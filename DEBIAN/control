@@ -1,0 +1,6 @@
+Package: hello
+Version: 2.10-2ubuntu4
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Description: Hello, the classic greeting and program for testing purposes
+Postinst: postinst
